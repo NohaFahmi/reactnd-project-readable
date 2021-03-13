@@ -6,6 +6,9 @@ This repository includes the code for the backend API Server that I used to deve
 ## Features
 Users will be able to post content to predefined categories, comment on their posts and other users' posts, and vote on posts and comments. Users will also be able to edit and delete posts and comments.
 
+## Demo
+Check this live version for Readable React app from [here]()
+
 ## Installation
 
 To get started developing right away:
