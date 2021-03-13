@@ -1,0 +1,54 @@
+.header {
+    width: 100%;
+    border: 1px solid lightgray;
+    box-shadow: 2px 2px 2px lightgray;
+    display: flex;    
+}
+
+.logo img {
+    width: 100%
+}
+
+/* .container {
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+.container .sideMenu {
+    border: 1px solid green;
+}
+.container .content {
+    border: 1px solid rebeccapurple;
+    width: 80%
+} */
+
+.listItem {
+    border: 1px solid lightgray;
+    box-shadow: 2px 2px 2px lightgray;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: right;
+    margin-top: 15px;
+}
+.settings {
+    float: right;
+}
+.btn-dark, .btn-dark:active {
+    background-color:  #3C23B7 !important;
+    border-color:  #3C23B7 !important;
+    
+}
+.btn-dark:hover, .btn-dark:focus {
+    background-color:  #F9F9FB !important;
+    border-color:  #3C23B7 !important;
+    color: #3C23B7 !important;
+}
+
+
+.formItem:hover,  .formItem:focus{
+    border-color: #5A4BB5 !important;
+}
+
+.ant-select:not(.ant-select-disabled):hover .ant-select-selector {
+    border-color: #5A4BB5 !important;
+}
