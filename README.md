@@ -7,7 +7,8 @@ This repository includes the code for the backend API Server that I used to deve
 Users will be able to post content to predefined categories, comment on their posts and other users' posts, and vote on posts and comments. Users will also be able to edit and delete posts and comments.
 
 ## Demo
-Check this live version for Readable React app from [here]()
+- Check this live version for Readable React app from [here](https://readable-website.netlify.app/home)
+- Backend APIs is deployed [here](https://readable-apis.nohaa.repl.co)
 
 ## Installation
 
